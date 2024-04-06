@@ -1,0 +1,13 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+secrets.tfvars
+*_override.tf
+*_override.tf.json
+.override.tf
+.override.tf.json
+.terraformrc
+terraform.rc
+*.pem
